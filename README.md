@@ -19,7 +19,7 @@ Slack is the main tool for communication. When using Slack to communicate, pleas
     
 2. Use clear and concise messages: Keep your messages brief and to the point. Avoid long paragraphs and use bullet points or numbered lists when necessary.
     
-3. Utilize threads: Use threads for in-depth discussions or to respond to specific messages. This keeps the main channel clutter-free and allows for focused conversations.
+3. Utilize threads: Use threads for in-depth discussions or to respond to specific messages. This keeps the main channel clutter-free and allows focused conversations.
     
 4. Mention individuals when necessary: Use @mentions to get someone's attention or involve them in a conversation. However, be mindful of not overusing mentions to prevent unnecessary distractions.
     
