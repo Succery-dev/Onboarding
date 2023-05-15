@@ -74,7 +74,7 @@ GitHub/Git is the main tool for development. When using GitHub/Git to develop, p
 ### Additional
 
 1. Below is the Git-branch best practice we use.
-   ![git-best-practice](https://github.com/Succery-dev/Onboarding/assets/54393289/8e14d403-b31a-476c-89d4-10e89dfbb619)
+   ![git-model@2x](https://github.com/Succery-dev/Onboarding/assets/54393289/77166a4b-d8e4-435a-a72f-01d4bbaf3acb)
    [Detail](https://nvie.com/posts/a-successful-git-branching-model/)
 
 2. How to make branches
@@ -87,7 +87,5 @@ GitHub/Git is the main tool for development. When using GitHub/Git to develop, p
 3. Do not use and merge it to the `main` branch. We only use it for production.
    
    If you create a PR, make sure that the commit is going to merge into `develop` branch.
-   
-   <img width="482" alt="Screen Shot 2023-05-13 at 19 26 20" src="https://github.com/Succery-dev/Onboarding/assets/54393289/c8da5978-fa84-4cbd-a27b-463a236a8e1f">
    
    I'll check the PR, so please assign me as a reviewer and let me know on the Slack.
