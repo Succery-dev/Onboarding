@@ -89,3 +89,5 @@ GitHub/Git is the main tool for development. When using GitHub/Git to develop, p
    If you create a PR, make sure that the commit is going to merge into `develop` branch.
    
    I'll check the PR, so please assign me as a reviewer and let me know on the Slack.
+
+4. We welcome new ideas and proposals at any time!!
